@@ -7,7 +7,6 @@ https://www.dolarsi.com/api/api.php?type=valoresprincipales
 
 <div align="center">
   <img src="img/1.png">
-  <small>Execution Code</small>
 </div>
 
 ### How to run
